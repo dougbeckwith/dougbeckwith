@@ -10,7 +10,6 @@
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on building projects in React.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - 🥅 &nbsp; Interests: Web Dev, Crypto, Gaming, Golfing, Snowboarding, Guitar.
 </div> 
 </div>
 
