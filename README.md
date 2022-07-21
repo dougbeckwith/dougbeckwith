@@ -5,7 +5,6 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
-  - ✍️ &nbsp; Pursuing a Job in Web Development  
   - 🤔 &nbsp; Exploring and learning new technologies 
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on building projects in React.
